@@ -1,0 +1,29 @@
+Pnj:
+   BuyPrice: 25000
+   CallPrice: 250
+   SellPrice: 12500
+   UpgradeArmorPriceLevel2: 25000
+   UpgradeArmorPriceLevel3: 25000
+   UpgradeWeaponPriceLevel2: 12500
+   UpgradeWeaponPriceLevel3: 12500
+Stuff:
+    Armor:
+        Basic:
+            Head: LEATHER_HELMET
+            ChestPlate: LEATHER_CHESTPLATE
+            Leggings: LEATHER_LEGGINGS
+            Boots: LEATHER_BOOTS
+        Inter:
+            Head: IRON_HELMET
+            ChestPlate: IRON_CHESTPLATE
+            Leggings: IRON_LEGGINGS
+            Boots: IRON_BOOTS
+        Advanced:
+            Head: GOLD_HELMET
+            ChestPlate: GOLD_CHESTPLATE
+            Leggings: GOLD_LEGGINGS
+            Boots: GOLD_BOOTS
+    Weapon:
+        Basic: STONE_SWORD
+        Inter: IRON_SWORD
+        Advanced: DIAMOND_SWORD

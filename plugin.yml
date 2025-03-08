@@ -1,0 +1,29 @@
+﻿name: PNJGui
+author: sami37
+version: 1.0.0
+description: Ouvre un panneau de configuration pour les PNJ
+main: com.DarkMine.PNJGui.PNJGui
+depend: [Vault, Citizens]
+commands:
+  gui:
+    description: Ouvre le panneau de commande.
+    usage: /gui
+    aliases:
+    - g
+  reload:
+    description: Permet de reload le plugin.
+    usage: /gui reload
+    aliases:
+    - gr
+permissions:
+  gui.*:
+    description: donne accés à toute les permissions enfants
+    children:
+      gui.gui: true
+      gui.reload: true
+  gui.gui:
+    description: Permet d'utiliser la commande gui.
+    default: op
+  gui.reload:
+    desctiption: Permet de reload le plugin.
+    default: op

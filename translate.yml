@@ -1,0 +1,43 @@
+#CONFIG
+#
+#
+#
+Loading_error: Problem while loading or creating config file !
+Citizens_save_message: Make sure to save citizens before reload this plugin.
+Unable_from_console: You can't use this command from console.
+#Gui control
+#
+#
+#
+Gui_name: Gestion guard
+Buy_button: Acheter
+Call_button: Rappel
+Sell_button: Vendre
+Upgrade_button_armor_v2: Upgrade your bodyguard to V2
+Upgrade_button_armor_v3: Upgrade your bodyguard to V3
+Upgrade_button_weapon_v2: Upgrade your bodyguard weapon to V2
+Upgrade_button_weapon_v3: Upgrade your bodyguard weapon to V3
+#Text result
+#
+#
+#
+Skin_set: The name ' %s ' has been set to your bodyguard.
+Skin_not_set: The name ' %s ' has not been resolved. Your skin has been set to your bodyguard
+Type_skin_name: Please type a player name to get him skin to your bodyguard !
+Money_left: Your new money amount is 
+Cant_buy: You allready got bodyguard or we are not able to create new bodyguard !
+Not_enough_money: You don't get enough money !
+No_buy_economy: You can't buy bodyguard because there is no economy !
+Bodyguard_teleported: Your bodyguard has been teleported to you !
+Bodyguard_spawn: Your bodyguard has been spawn to your position !
+Not_bodyguard: You don't get bodyguard, buy one before !
+No_call_bodyguard: You can't call bodyguard because there is no economy !
+Sold_body: You sold your bodyguard, he will not follow you anymore !
+Spawn_before: You must spawn your bodyguard before !
+Upgraded_armor_lvl2: Your bodyguard has been upgrade to level 2.
+Upgrade_armor_disable: Armor upgrade is disabled.
+Cant_upgrade_armor: You can't upgrade your bodyguard armor because there is no economy !
+Upgraded_armor_lvl3: Your bodyguard has been upgrade to level 3.
+Upgraded_weapon_lvl2: Your bodyguard weapon has been upgrade to level 2.
+Upgraded_weapon_lvl3: Your bodyguard weapon has been upgrade to level 3.
+Upgrade_weapon_disable: You can't upgrade your bodyguard weapon because there is no economy !
