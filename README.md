@@ -4,7 +4,7 @@
 
 ---
 
-## 📦 Présentation | About
+## Présentation | About
 
 **PNJGui** est un plugin Minecraft développé pour **Spigot 1.8.8**. Il permet aux joueurs d'acheter, invoquer, vendre et améliorer leur **garde du corps personnel** (PNJ) via une interface graphique intuitive.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧩 Dépendances | Dependencies
+## Dépendances | Dependencies
 
 - [Citizens 2](https://www.spigotmc.org/resources/citizens.13811/)
 - [Sentry (addon Citizens)](https://www.spigotmc.org/resources/sentry.24265/)
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔐 Permissions
+## Permissions
 
 ```yml
 gui.*:
@@ -50,11 +50,11 @@ gui.reload:
 
 ---
 
-## 💰 Prix & équipement | Prices & Equipment
+## Prix & équipement | Prices & Equipment
 
 Le fichier `config.yml` vous permet de personnaliser :
 
-### 💸 Prix
+### Prix
 
 | Action | Prix |
 |--------|------|
@@ -66,7 +66,7 @@ Le fichier `config.yml` vous permet de personnaliser :
 | Amélioration Arme Niveau 2 | 12 500 |
 | Amélioration Arme Niveau 3 | 12 500 |
 
-### 🛡️ Équipement par niveau
+### Équipement par niveau
 
 | Niveau | Armure | Arme |
 |--------|--------|------|
@@ -76,13 +76,13 @@ Le fichier `config.yml` vous permet de personnaliser :
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 Toutes les valeurs sont modifiables dans le fichier `config.yml`. Après modification, utilisez la commande `/gui reload` pour appliquer les changements sans redémarrer le serveur.
 
 ---
 
-## 🔧 Installation
+## Installation
 
 1. Placez le fichier `PNJGui.jar` dans le dossier `plugins/` de votre serveur.
 2. Assurez-vous que **Citizens**, **Sentry**, **Vault** et **Essentials** sont installés.
@@ -92,7 +92,7 @@ Toutes les valeurs sont modifiables dans le fichier `config.yml`. Après modific
 
 ---
 
-## 🧑‍💻 Auteur | Author
+## Auteur | Author
 
 Développé par **sami37**  
 Plugin version : `1.0.0`  
@@ -100,7 +100,7 @@ Compatibilité : Spigot 1.8.8
 
 ---
 
-## 📜 Licence
+## Licence
 
 Ce plugin est libre de droit pour un usage personnel ou serveur. La redistribution sans autorisation est interdite.
 
